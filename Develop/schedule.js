@@ -27,7 +27,7 @@ function presentColor(){
             var colorRed = querySelector(".present");
             colorRed.attr("class", "fancy");
         } 
-        console.log(colorRed);
+    //console.log(hourEl);
     }
     // console.log(currentTime);
     //presentColor();
